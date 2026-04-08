@@ -1,0 +1,19 @@
+
+VCFtools - UNKNOWN
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf geno_n1601_in_silico_wild_AQ_selected5_905.vcf
+	--weir-fst-pop geno_AQ2_samples.txt
+	--weir-fst-pop geno_in_silico_AQ_samples.txt
+	--keep geno_AQ2_samples.txt
+	--keep geno_in_silico_AQ_samples.txt
+	--out geno_AQ2_samples_vs_geno_in_silico_AQ_samples
+
+Keeping individuals in 'keep' list
+After filtering, kept 130 out of 1801 Individuals
+Outputting Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.022855
+Weir and Cockerham weighted Fst estimate: 0.02719
+After filtering, kept 905 out of a possible 905 Sites
+Run Time = 1.00 seconds

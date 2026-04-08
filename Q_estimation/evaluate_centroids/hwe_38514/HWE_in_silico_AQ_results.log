@@ -1,0 +1,15 @@
+
+VCFtools - UNKNOWN
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf geno_n1601_in_silico_wild_AQ_fp_noinvers.fixed.vcf
+	--keep geno_in_silico_AQ_samples.txt
+	--hardy
+	--out HWE_in_silico_AQ_results
+
+Keeping individuals in 'keep' list
+After filtering, kept 100 out of 1801 Individuals
+Outputting HWE statistics (but only for biallelic loci)
+After filtering, kept 38514 out of a possible 38514 Sites
+Run Time = 6.00 seconds

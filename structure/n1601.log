@@ -1,0 +1,28 @@
+PLINK v1.90b5.3 64-bit (21 Feb 2018)
+Options in effect:
+  --allow-extra-chr
+  --bfile /workdir/yc2644/CV_CT_array/vcf_n1601/10kSNP.geno_n1601_fp_noinvers
+  --out /workdir/yc2644/CV_CT_array/structure/threader_input/n1601
+  --recode structure
+
+Hostname: cbsuhare.biohpc.cornell.edu
+Working directory: /local/workdir/yc2644/CV_CT_array/vcf_n1601
+Start time: Tue Jul  8 14:52:29 2025
+
+Random number seed: 1752000749
+257064 MB RAM detected; reserving 128532 MB for main workspace.
+10000 variants loaded from .bim file.
+1601 people (0 males, 0 females, 1601 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/workdir/yc2644/CV_CT_array/structure/threader_input/n1601.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1601 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.991591.
+10000 variants and 1601 people pass filters and QC.
+Note: No phenotypes present.
+--recode structure to
+/workdir/yc2644/CV_CT_array/structure/threader_input/n1601.recode.strct_in ...
+done.
+
+End time: Tue Jul  8 14:52:29 2025
